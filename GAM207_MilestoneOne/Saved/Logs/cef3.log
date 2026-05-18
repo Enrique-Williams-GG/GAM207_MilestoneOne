@@ -1,0 +1,18 @@
+[41924:41568:0517/190916.540:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[41924:6124:0517/190916.585:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[41924:41568:0517/190916.613:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42632:9656:0517/190922.296:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-49BA7663D89D305DB3BCF86F690E2C8F will be ignored
+[41924:37368:0517/190924.308:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[41924:41568:0517/190924.636:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[41924:41568:0517/190924.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[41924:41568:0517/190924.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[41924:41568:0517/190924.638:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[41924:37368:0517/190924.649:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[41020:19348:0517/190931.965:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[41020:19348:0517/190932.144:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[41020:33304:0517/190932.154:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[41020:33304:0517/190932.154:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[41020:33304:0517/190932.154:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[44096:40704:0517/191139.649:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[44096:40704:0517/191139.649:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[41924:41568:0517/191243.898:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
