@@ -1,2 +1,3 @@
-2026/05/17-19:09:16.702 aca0 Creating DB C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/05/17-19:09:16.745 aca0 Reusing MANIFEST C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/24-13:53:27.047 3bc0 Reusing MANIFEST C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/24-13:53:27.055 3bc0 Recovering log #3
+2026/05/24-13:53:27.058 3bc0 Reusing old log C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
