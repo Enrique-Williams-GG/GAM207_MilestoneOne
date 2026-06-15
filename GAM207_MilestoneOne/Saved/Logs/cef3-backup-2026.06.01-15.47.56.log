@@ -1,7 +1,0 @@
-[30980:30984:0601/070729.761:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[30980:15160:0601/070729.890:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[30980:30984:0601/070729.971:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[29764:29760:0601/070737.408:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2EBF9957252613E150197454A088B3FA will be ignored
-[10008:8936:0601/070737.896:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 9
-[10008:8936:0601/070738.536:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 27
-[30980:30984:0601/094756.386:ERROR:device_event_log_impl.cc(196)] [09:47:56.361] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
