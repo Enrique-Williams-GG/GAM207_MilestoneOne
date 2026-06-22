@@ -1,0 +1,9 @@
+[19932:19232:0621/134425.355:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19932:36556:0621/134425.400:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19932:19232:0621/134425.424:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[33032:28836:0621/134430.505:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4F985DD7A9F0FDFA0FBC2892B2B4D26A will be ignored
+[19932:19232:0621/145525.181:ERROR:device_event_log_impl.cc(196)] [14:55:24.707] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#nllwireguard#{47656e44-6967-6957-4775-6172644e4c4c}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{47656e44-6967-6957-4775-6172644e4c4c}: Error (0x13D) while retrieving error. (0xE0000225)
+[19932:19232:0621/145525.556:ERROR:device_event_log_impl.cc(196)] [14:55:24.712] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#nllwireguard#{47656e44-6967-6957-4775-6172644e4c4c}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[19932:19232:0621/145528.488:ERROR:device_event_log_impl.cc(196)] [14:55:28.215] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[9968:29544:0621/154651.191:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-B49E4F60409D4B89A73E7BAB03226918 will be ignored
+[19932:19232:0621/154755.373:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

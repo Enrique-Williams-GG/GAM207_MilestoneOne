@@ -1,6 +1,10 @@
-[24292:9120:0614/225854.172:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[24292:32212:0614/225854.215:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[24292:9120:0614/225854.241:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[13564:20484:0614/225859.161:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-63AC7D4BC422F18E77AA879B60FB6F11 will be ignored
-[24292:9120:0615/031203.940:ERROR:device_event_log_impl.cc(196)] [03:12:03.675] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[24292:9120:0615/040806.402:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28768:34140:0621/160422.258:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28768:23856:0621/160422.453:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28768:34140:0621/160422.545:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19460:15752:0621/160429.060:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9B99D634F82D0587EC64EFEB22368BAC will be ignored
+[28768:34140:0621/170655.829:ERROR:device_event_log_impl.cc(196)] [17:06:54.641] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#nllwireguard#{47656e44-6967-6957-4775-6172644e4c4c}#{ad498944-762f-11d0-8dcb-00c04fc3358c}\{47656e44-6967-6957-4775-6172644e4c4c}: Error (0x13D) while retrieving error. (0xE0000225)
+[28768:34140:0621/170656.142:ERROR:device_event_log_impl.cc(196)] [17:06:54.649] USB: usb_service_win.cc:515 Failed to add device interface: \\?\swd#nllwireguard#{47656e44-6967-6957-4775-6172644e4c4c}#{cac88484-7515-4c03-82e6-71a87abac361}: Error (0x13D) while retrieving error. (0xE0000225)
+[28768:34140:0621/170656.143:ERROR:device_event_log_impl.cc(196)] [17:06:54.811] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8708:41940:0621/170659.588:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[28768:34140:0621/185729.271:ERROR:device_event_log_impl.cc(196)] [18:57:29.234] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28768:34140:0621/191316.615:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

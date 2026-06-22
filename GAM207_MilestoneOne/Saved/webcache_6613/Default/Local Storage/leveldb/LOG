@@ -1,3 +1,5 @@
-2026/06/14-22:58:54.330 9e44 Reusing MANIFEST C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/14-22:58:54.339 9e44 Recovering log #4
-2026/06/14-22:58:54.342 9e44 Reusing old log C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/06/21-16:04:22.624 5508 Reusing MANIFEST C:\Users\mxz\Documents\Unreal Projects\GAM207_MilestoneOne\GAM207_MilestoneOne\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/21-16:04:22.632 5508 Recovering log #4
+2026/06/21-16:04:22.632 5508 Level-0 table #6: started
+2026/06/21-16:04:22.639 5508 Level-0 table #6: 64757 bytes OK
+2026/06/21-16:04:22.647 5508 Delete type=0 #4
